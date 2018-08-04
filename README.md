@@ -7,11 +7,9 @@ System Requirement
 - Python 2.7
 - g++
 - pypy
-- at least 8GB memory and 40GB disk space
 
-To reproduce our submission:
+Reproduce our submission:
 -------------------
-- Download tha data("train" and "test") to this folder.
 - Change directory to process:
 	cd process
 - Run the code:
