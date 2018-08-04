@@ -1,15 +1,14 @@
-Random Walker's solution for Avazu Click-Through rate prediction
+Solution for Avazu Click-Through rate prediction
 
-The introduction of our approach could be found in doc.pdf.
 
 System Requirement
 ------------------
-- 64-bit Unix-like os
+- 64-bit Mac OS X
 - Python 2.7
 - g++
 - pypy
 - sklearn
-- at least 20GB memory and 50GB disk space
+- at least 8GB memory and 40GB disk space
 
 To reproduce our submission:
 -------------------
