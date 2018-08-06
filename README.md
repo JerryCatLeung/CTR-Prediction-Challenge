@@ -1,14 +1,14 @@
 Solution for Avazu Click-Through rate prediction
 
 
-System Requirement
+系统要求
 ------------------
 - 64-bit Mac OS X
 - Python 2.7
 - g++
 - pypy
 
-Reproduce our submission:
+项目入口
 -------------------
 - Change directory to process:
 	cd process
